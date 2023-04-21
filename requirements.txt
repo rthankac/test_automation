@@ -1,0 +1,8 @@
+# Copyright IBM Corp. 2021, 2022
+
+selenium == 3.14.1
+pytest == 7.2.1
+pytest-env == 0.6.2
+webdriver-manager == 3.5.4
+boto3 == 1.21.24
+pytest-timestamper == 0.0.9
